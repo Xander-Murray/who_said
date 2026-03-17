@@ -7,3 +7,5 @@ authors.json
 
 # raw and processed data (contains real names)
 data/
+
+NOTEBOOK_WALKTHROUGH.md
