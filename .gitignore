@@ -1,0 +1,9 @@
+CLAUDE.md
+
+venv/
+
+# private author mapping — keep off public repo
+authors.json
+
+# raw and processed data (contains real names)
+data/
